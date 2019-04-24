@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{5F5E35DD-9BDC-4996-90ED-CA0D44DC2066}</ProjectGuid>
+    <ProjectGuid>{67ABA4B8-841B-4FAD-9A60-13A70B411AEA}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <RootNamespace>TodoWebApp</RootNamespace>
@@ -244,7 +244,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>62934</DevelopmentServerPort>
+          <DevelopmentServerPort>64663</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:62934/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

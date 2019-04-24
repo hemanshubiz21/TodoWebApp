@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{A03B3305-4836-4A8F-9F28-78A43DF06049}</ProjectGuid>
+    <ProjectGuid>{E1B1491D-D105-4EFB-8561-581F4ED306DE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>TodoWebApp.Tests</RootNamespace>
     <AssemblyName>TodoWebApp.Tests</AssemblyName>
@@ -111,7 +111,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TodoWebApp\TodoWebApp.vbproj">
-      <Project>{5F5E35DD-9BDC-4996-90ED-CA0D44DC2066}</Project>
+      <Project>{67ABA4B8-841B-4FAD-9A60-13A70B411AEA}</Project>
       <Name>TodoWebApp</Name>
     </ProjectReference>
   </ItemGroup>
